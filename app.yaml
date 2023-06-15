@@ -8,4 +8,4 @@ automatic_scaling:
   min_instances: 1
 
 env_variables:
-  OPENAI_KEY: "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"
+  OPENAI_KEY: "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"
